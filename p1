@@ -63,7 +63,7 @@
     <header class="w3-container w3-teal w3-display-container"> 
       <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-teal w3-display-topright"><i class="fa fa-remove"></i></span>
       <h4>Hiya!</h4>
-      <h5>What are you doing here? 🤔<i class="fa fa-smile-o"></i></h5>
+      <h5> line uno <i class="fa fa-smile-o"></i></h5>
     </header>
     <div class="w3-container">
       <p>Cool huh? Ok, enough teasing around..</p>
@@ -113,8 +113,8 @@
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
 
 <div class="w3-quarter">
-<h2>Quick Summary about me</h2>
-<p>Hi! I'm Natalie, and I am quite fond of baking, sleeping, eating delicious foods, and playing tennis, as mentioned above. As for baking, I enjoy mainly baking desserts. All types of confections are my jam! My go-to baked goods are cookies and scones. I also enjoy making lemon tarts and raspberry chocolate cake if I'm really in the mood!</p>
+<h2> Heading </h2>
+<p> Welcome, welcome. </p>
 </div>
 
 <div class="w3-quarter">
